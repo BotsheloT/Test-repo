@@ -6,7 +6,3 @@ input.addEventListener('keyup', (e) => {
         console.log(e.target.value);
     }
 })
-
-array.forEach(element => {
-    
-});
